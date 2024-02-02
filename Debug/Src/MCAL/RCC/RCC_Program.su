@@ -1,0 +1,10 @@
+../Src/MCAL/RCC/RCC_Program.c:35:9:MRCC_setClockSts	24	static
+../Src/MCAL/RCC/RCC_Program.c:137:9:MRCC_setSystemClk	16	static
+../Src/MCAL/RCC/RCC_Program.c:170:9:MRCC_HSE_Config	16	static
+../Src/MCAL/RCC/RCC_Program.c:202:9:MRCC_PLL_Config	16	static
+../Src/MCAL/RCC/RCC_Program.c:237:6:MRCC_AHB_EnablePeripheralClk	16	static
+../Src/MCAL/RCC/RCC_Program.c:254:6:MRCC_AHB_DisablePeripheralClk	16	static
+../Src/MCAL/RCC/RCC_Program.c:274:6:MRCC_APB1_EnablePeripheralClk	16	static
+../Src/MCAL/RCC/RCC_Program.c:292:6:MRCC_APB1_DisablePeripheralClk	16	static
+../Src/MCAL/RCC/RCC_Program.c:309:6:MRCC_APB2_EnablePeripheralClk	16	static
+../Src/MCAL/RCC/RCC_Program.c:324:6:MRCC_APB2_DisablePeripheralClk	16	static
